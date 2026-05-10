@@ -1,4 +1,4 @@
-name: super_cerber_weather_fetch
+name: super_cerber_weather_fetch_test
 label: Super Cerber Weather Fetch Tester
 description: >-
   Fetch the current weather and temperature for any city using wttr.in.
